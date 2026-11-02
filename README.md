@@ -42,3 +42,12 @@ Czujnik został przeskalowany do następujących progów:
 | | AO (Analog Out) | Pin analogowy A0 |
 
 ---
+
+## 📸 Podgląd projektu
+<img width="1536" height="2048" alt="doniczka1" src="https://github.com/user-attachments/assets/d2377fc4-923b-43c6-91c5-661270e1fb5f" />
+<img width="1536" height="2048" alt="doniczka2" src="https://github.com/user-attachments/assets/92e70456-5e6c-4aee-8657-63f986ff150a" />
+<img width="1536" height="2048" alt="doniczka3" src="https://github.com/user-attachments/assets/734437bd-09cf-487b-b109-ae76ea61a67b" />
+<img width="1536" height="2048" alt="doniczka4" src="https://github.com/user-attachments/assets/6914b51c-2219-49e0-80c5-9c53730bc4bf" />
+
+
+
